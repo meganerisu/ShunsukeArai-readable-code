@@ -1,0 +1,3 @@
+import dictionary_data
+
+print(dictionary_data.task1_language)
