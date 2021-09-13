@@ -1,2 +1,3 @@
-task1_language = "上手"
-print(task1_language)
+import dictionary_data
+
+print(dictionary_data.task1_language)
