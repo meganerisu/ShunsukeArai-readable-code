@@ -13,3 +13,12 @@ Python
 1. dictionary_data.pyをmain.pyにimport
 2. dictionary_dataの中のword1-3をprint関数の引数に使用
 3. ファイルの実行
+
+仕様6:
+1. arparseを使って引数をCLIからユーザが指定できるようにする (e.g. --id)
+2. read_wordでCLIから受け取ったIDを指定
+    実行例：
+    ```
+    $ python main.py --id 2
+    2: 市場
+    ```
