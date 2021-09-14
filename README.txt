@@ -22,3 +22,12 @@ Python
     $ python main.py --id 2
     2: 市場
     ```
+
+仕様7:
+1. arparseを使って引数をCLIからユーザが指定できるようにする (e.g. --id)
+2. read_wordでCLIから受け取ったIDを指定
+    実行例：
+    ```
+    $ python main.py --id 2
+    2: 市場 いちば
+    ```
