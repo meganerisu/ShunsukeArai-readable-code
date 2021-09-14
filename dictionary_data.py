@@ -1,5 +1,5 @@
-language1 = "上手"
-language2 = "市場"
-language3 = "一時"
+word1 = "上手"
+word2 = "市場"
+word3 = "一時"
 
-lis = [language1,language2,language3]
+words = [word1, word2, word3]
