@@ -8,3 +8,8 @@ Python
 仕様3:データについて
 1. dictionary_data.pyをshiyou1ファイルにimport
 2. dictionary_dataの中のtask1_languageをprint関数の引数に使用
+
+仕様4: 実行手順
+1. dictionary_data.pyをshiyou1ファイルにimport
+2. dictionary_dataの中のlanguage1-3をprint関数の引数に使用
+3. ファイルの実行
